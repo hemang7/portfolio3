@@ -27,7 +27,7 @@ import qcs from "./company/qcs.png";
 
 import plasma from "./plasma.png";
 import crypto from "./crypto.png";
-import ricknmorty from "./ricknmorty.png";
+import ricknmorty from "../assets/ricknmorty.png";
 
 
 export {
