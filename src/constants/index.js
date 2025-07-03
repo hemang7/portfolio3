@@ -23,7 +23,7 @@ import {
     ricknmorty,
     mtx,
     tidal,
-    qcs
+    qcs 
   } from "../assets";
   
   export const navLinks = [
