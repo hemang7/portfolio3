@@ -19,6 +19,7 @@ import {
     github,
     plasma,
     crypto,
+    ziggy,
     ricknmorty,
     mtx,
     tidal,
@@ -160,6 +161,28 @@ import {
   
   
   const projects = [
+          {
+      name: "Ziggy",
+      description:
+        "A fullstack one-stop solution to all your travel needs.",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "tailwind",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: ziggy,
+      source_code_link: "https://github.com/hemang2050/ziggy",
+      live_app_link: "https://ziggy-frontend.vercel.app/",
+    },
     {
       name: "Plasma Life",
       description:
