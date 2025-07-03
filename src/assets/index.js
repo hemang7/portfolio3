@@ -25,6 +25,7 @@ import mtx from "./company/mtx.jpeg";
 import tidal from "./company/tidal.webp"
 import qcs from "./company/qcs.png";
 
+import ziggy from "./ziggy.png"; 
 import plasma from "./plasma.png";
 import crypto from "./crypto.png";
 import ricknmorty from "./ricknMorty.png";
@@ -52,6 +53,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  ziggy,
   plasma,
   crypto,
   ricknmorty,
