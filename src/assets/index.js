@@ -29,6 +29,7 @@ import ziggy from "./ziggy.png";
 import plasma from "./plasma.png";
 import crypto from "./crypto.png";
 import ricknmorty from "./ricknMorty.png";
+import caresignal from "./caresignal.png";
 
 
 export {
@@ -61,3 +62,4 @@ export {
   tidal,
   qcs
 };
+
