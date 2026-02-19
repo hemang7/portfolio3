@@ -111,8 +111,8 @@ const projects = [
     { name: "zustand", color: "blue-text-gradient" }
   ],
   image: caresignal, // make sure you import this at top
-  source_code_link: "https://github.com/hemang7/CareSignal-AI",
-  live_app_link: "https://your-live-link.vercel.app/"
+  source_code_link: "https://github.com/hemang7/CareGiver-AI",
+  live_app_link: "https://caregiverai.vercel.app/"
   },
   {
     name: "Ziggy",
