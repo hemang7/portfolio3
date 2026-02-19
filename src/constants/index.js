@@ -20,6 +20,7 @@ import {
   plasma,
   crypto,
   ziggy,
+  caresignal,
   ricknmorty,
   mtx,
   tidal,
@@ -99,6 +100,20 @@ const experiences = [
 ];
 
 const projects = [
+    {
+  name: "CareSignal AI",
+  description:
+    "An AI-powered caregiver co-pilot that converts voice notes into structured clinical insights, risk detection, and EMR-ready summaries with longitudinal patient tracking.",
+  tags: [
+    { name: "nextjs", color: "blue-text-gradient" },
+    { name: "openai", color: "green-text-gradient" },
+    { name: "typescript", color: "pink-text-gradient" },
+    { name: "zustand", color: "blue-text-gradient" }
+  ],
+  image: caresignal, // make sure you import this at top
+  source_code_link: "https://github.com/hemang7/CareSignal-AI",
+  live_app_link: "https://your-live-link.vercel.app/"
+  },
   {
     name: "Ziggy",
     description: "A fullstack one-stop solution for all your travel needs.",
