@@ -58,8 +58,10 @@ export {
   plasma,
   crypto,
   ricknmorty,
+  caresignal,
   mtx,
   tidal,
   qcs
 };
+
 
