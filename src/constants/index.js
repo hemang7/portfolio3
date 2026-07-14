@@ -101,7 +101,7 @@ const experiences = [
 
 const projects = [
     {
-  name: "CareSignal AI",
+  name: "CareGiver AI",
   description:
     "An AI-powered caregiver co-pilot that converts voice notes into structured clinical insights, risk detection, and EMR-ready summaries with longitudinal patient tracking.",
   tags: [
